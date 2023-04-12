@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/CMakeFiles/picotls-populate"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/CMakeFiles/picotls-populate.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/CMakeFiles/picotls-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-install.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-download.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-update.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-build.rule"
+		},
+		{
+			"file" : "/home/mininet/picoquic/_deps/picotls-subbuild/picotls-populate-prefix/src/picotls-populate-stamp/picotls-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotls-populate"
+		],
+		"name" : "picotls-populate"
+	}
+}
